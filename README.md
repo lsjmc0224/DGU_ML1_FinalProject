@@ -4,3 +4,4 @@
 
 ### Main Assignment
 Do a Classification with given data using any machine learning methods.
+Evaluation method is F-score
